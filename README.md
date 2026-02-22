@@ -3,15 +3,13 @@ class-project-big-data-dunces created by GitHub Classroom
 ---
 ## Members: 
 
-### Adnan : asidd5
+### Adnan Siddiqui
 
-### Philip : pkeit2 
 
-### Sufyan : ssidd5
+### Sufyan Siddiqui
 
-### David : dboda2
 
-### Yanjaa : yganz2
+
 
 ---
 
