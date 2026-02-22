@@ -1,5 +1,4 @@
-# class-project-big-data-dunces
-class-project-big-data-dunces created by GitHub Classroom
+
 ---
 ## Members: 
 
